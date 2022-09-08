@@ -1,0 +1,1 @@
+this app made using TKinter and its a phone app that shows quotes to user. its consists of a signup page, login page and quote page.
